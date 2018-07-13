@@ -10,5 +10,10 @@
         android:id="@+id/txtHolaMundo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="Hola mundo!" />
+    <TextView
+        android:id="@+id/txtHolaMundoDos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hola mundo!" />
 </LinearLayout>
